@@ -52,8 +52,7 @@ $ make
 $ sudo make install
 $ yosys
 ```
-![Yosys](https://github.com/user-attachments/assets/374c997e-5286-408b-9341-46c7587d795c)
-
+![YOSYS](https://github.com/user-attachments/assets/fe224aad-b66a-4f5d-a7d7-e2d5000c5b02)
 
 #### <ins>**Iverilog**</ins>
 Icarus Verilog provides a robust simulation platform for comprehensive design verification and validation. Its event-driven simulation engine supports complex testbench scenarios, enabling thorough functional coverage analysis and corner case testing essential for first-silicon success.
